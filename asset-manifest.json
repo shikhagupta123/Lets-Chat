@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Lets-Chat/static/css/main.5ee80d85.chunk.css",
+    "main.js": "/Lets-Chat/static/js/main.c1ac0928.chunk.js",
+    "main.js.map": "/Lets-Chat/static/js/main.c1ac0928.chunk.js.map",
+    "runtime-main.js": "/Lets-Chat/static/js/runtime-main.f72d0c2f.js",
+    "runtime-main.js.map": "/Lets-Chat/static/js/runtime-main.f72d0c2f.js.map",
+    "static/css/2.f83b9687.chunk.css": "/Lets-Chat/static/css/2.f83b9687.chunk.css",
+    "static/js/2.a0c89bfc.chunk.js": "/Lets-Chat/static/js/2.a0c89bfc.chunk.js",
+    "static/js/2.a0c89bfc.chunk.js.map": "/Lets-Chat/static/js/2.a0c89bfc.chunk.js.map",
+    "index.html": "/Lets-Chat/index.html",
+    "static/css/2.f83b9687.chunk.css.map": "/Lets-Chat/static/css/2.f83b9687.chunk.css.map",
+    "static/css/main.5ee80d85.chunk.css.map": "/Lets-Chat/static/css/main.5ee80d85.chunk.css.map",
+    "static/js/2.a0c89bfc.chunk.js.LICENSE.txt": "/Lets-Chat/static/js/2.a0c89bfc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f72d0c2f.js",
+    "static/css/2.f83b9687.chunk.css",
+    "static/js/2.a0c89bfc.chunk.js",
+    "static/css/main.5ee80d85.chunk.css",
+    "static/js/main.c1ac0928.chunk.js"
+  ]
+}
